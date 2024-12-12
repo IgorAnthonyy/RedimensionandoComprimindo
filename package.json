@@ -1,0 +1,19 @@
+{
+  "name": "redimensionamento-de-imagem",
+  "version": "1.0.0",
+  "description": "Projeto para treinar, que faz uma imagem mudar o tamanho",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "compress-images": "^2.0.5"
+  }
+}
