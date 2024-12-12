@@ -28,7 +28,7 @@ Instalação
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/IgorAnthonyy/RedimensionandoComprimindoImagem.git
 
 Navegue até o diretório do projeto:
 
